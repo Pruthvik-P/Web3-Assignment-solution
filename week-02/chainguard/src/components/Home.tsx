@@ -24,7 +24,7 @@ const HomeComponent = () => {
             Empowering Your Digital Assets with Unbreakable Security.
           </p>
         </div>
-        <Button onClick={() => router.push("/terms")} variant="outline">
+        <Button onClick={() => router.push("/network")} variant="outline">
           Create your Wallet 👜
         </Button>
       </div>
